@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+{% block title %}Страница не найдена{% endblock %}
+
+{% block content %}
+  <div class="container">
+    <div class="header">
+      <h5>
+        <a href="{% url 'books' %}">Вернуться в каталог</a>
+      </h5>
+    </div>
+
+    <div class="content">
+      <div class="display-1 text-center">
+        404
+      </div>
+      <div class="display-4 text-center">
+        Страница не найдена
+      </div>
+    </div>
+  </div>
+{% endblock %}

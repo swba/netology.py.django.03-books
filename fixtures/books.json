@@ -1,0 +1,83 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Л.Н. Толстой",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэл",
+      "pub_date": "2016-12-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "Убить пересмешника",
+      "author": "Харпер Ли",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Гордость и предубеждение",
+      "author": "Джейн Остен",
+      "pub_date": "2018-02-04"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Дневник Анны Франк",
+      "author": "Анна Франк",
+      "pub_date": "2016-12-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "name": "Гарри Поттер и философский камень",
+      "author": "Джоан Роулинг",
+      "pub_date": "2018-09-29"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "name": "Властелин колец",
+      "author": "Дж. Р. Р. Толкин",
+      "pub_date": "2018-09-29"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "name": "Великий Гэтсби",
+      "author": "Ф. С. Фицджеральд",
+      "pub_date": "2018-02-04"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+      "name": "Паутина Шарлотты",
+      "author": "Элвин Брукс Уайт",
+      "pub_date": "2018-02-01"
+    }
+  }
+]
